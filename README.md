@@ -2,7 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://github.com/user-attachments/assets/333e829c-f4be-45da-b488-1ff578878251)
+![viewfinal](https://github.com/user-attachments/assets/48199452-ce3e-4bd6-9531-784774a2c102)
 - [Demo Project](https://roshaghaderi-web.github.io/first-To-Do-List/)
 
 
